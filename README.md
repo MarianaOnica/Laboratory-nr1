@@ -29,5 +29,11 @@ SQL laboratories
             <li>Delete history older than 6 weeks for Backup restore operations
             <li>The plan runs every first Sunday of the month
       </ul>
-      <img src = "intretinere.jpg""intretinere1.jpg"/>
-      
+      <div class="row">
+              <div class="column">
+              <img src="intretinere.jpg" style="width:100%">
+              </div>
+              <div class="column">
+              <img src="intretinere1.jpg"  style="width:100%">
+              </div>
+      </div>
