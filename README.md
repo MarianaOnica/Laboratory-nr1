@@ -13,4 +13,4 @@ SQL laboratories
        <img src = "second database2.jpg"/>
 <h2>Exercise 3.</h2>
        <p> I created the plan to maintain the first database </p>
-       <img src = 
+       <img src = "mentenance.jpg"/>
