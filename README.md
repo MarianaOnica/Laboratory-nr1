@@ -21,3 +21,6 @@ SQL laboratories
        <p> Check results in the <I>log</I> file</p>
        <img src = "mentenance3.jpg"/>
 <h2>Exercise 4.</h2>
+       <p> I created the Mentenance Plan for my second database named Games which include :</p>
+       <ul> The free space on the page is 10% </ul>
+       <ul> Indexes sorting is done in <I>tempdb>/I> </ul>
