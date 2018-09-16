@@ -12,5 +12,12 @@ SQL laboratories
        <p> The database is accessible for only one user</>
        <img src = "second database2.jpg"/>
 <h2>Exercise 3.</h2>
-       <p> I created the plan to maintain the first database </p>
+       <p> I created the plan to maintain the first database named MentenancePlan_Universitatea1 </p>
        <img src = "mentenance.jpg"/>
+       <p> This operation runs every Friday at 00:00 </p>
+       <img src = "mentenance1.jpg"/>
+       <p> Unused space from database files is removed when reaching the limit of 2000Mb </p>
+       <img src = "mentenance2.jpg"/>
+       <p> Check results in the <I>log</I> file</p>
+       <img src = "mentenance3.jpg"/>
+<h2>Exercise 4.</h2>
