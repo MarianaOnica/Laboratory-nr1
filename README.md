@@ -18,7 +18,7 @@ SQL laboratories
        <img src = "mentenance1.jpg"/>
        <p> Unused space from database files is removed when reaching the limit of 2000Mb </p>
        <img src = "mentenance2.jpg"/>
-       <p> Check results in the <I>log</I> file</p>
+       <p> Check the results in the <I>log</I> file</p>
        <img src = "mentenance3.jpg"/>
 <h2>Exercise 4.</h2>
        <p> I created the Mentenance Plan for my second database named Games which include :</p>
@@ -31,9 +31,18 @@ SQL laboratories
       </ul>
       <div class="row">
               <div class="column">
-              <img src="intretinere.jpg" style="width:100%">
+              <img src="intretinere.jpg" style="width:50%">
               </div>
               <div class="column">
-              <img src="intretinere1.jpg"  style="width:100%">
+              <img src="intretinere1.jpg"  style="width:50%">
+              </div>
+      </div>
+      <p> Check the results in the <I>log</I> file</p>
+       <div class="row">
+              <div class="column">
+              <img src="intretinere2.jpg" style="width:50%">
+              </div>
+              <div class="column">
+              <img src="intretinere3.jpg"  style="width:50%">
               </div>
       </div>
