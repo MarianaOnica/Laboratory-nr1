@@ -22,5 +22,12 @@ SQL laboratories
        <img src = "mentenance3.jpg"/>
 <h2>Exercise 4.</h2>
        <p> I created the Mentenance Plan for my second database named Games which include :</p>
-       <ul> The free space on the page is 10% </ul>
-       <ul> Indexes sorting is done in <I>tempdb>/I> </ul>
+       <ul> <li>The system performs rebuilding of indexes only on the base tables
+            <li>The free space on the page is 10% </ul>
+            <li>Indexes sorting is done in <I>tempdb</I> 
+            <li>After rebuilding, there is a collection of complete statistics about reconstructed indexes
+            <li>Delete history older than 6 weeks for Backup restore operations
+            <li>The plan runs every first Sunday of the month
+      </ul>
+      <img src = "intretinere.jpg""intretinere1.jpg/>
+      
