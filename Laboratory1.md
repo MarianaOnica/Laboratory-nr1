@@ -1,4 +1,5 @@
-# Laboratory-nr1
+# Laboratory-nr2
+Topic: Creating and maintaining the database
 SQL laboratories
 <h2>Exercise 1.</h2>
        <p> I created a new database with necessary caracteristics and a new filegroup named "Univer" with some properties</>
