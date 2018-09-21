@@ -23,7 +23,7 @@ In case we want to process [Col1]*[Col2], taking into account only this 4 number
 Create a database called the university with default properties. within this haze of
 data, create 2 tables (groups, disciplines) whose schemes are defined in section 3 .3 a
 Chapter.
-### Answer:
+<h2>  </h2> Answer:
 
 ![bazadedate](https://user-images.githubusercontent.com/43128425/45871872-2bf52e80-bd97-11e8-95a2-8f5dfd32d875.jpg)
 
@@ -33,4 +33,6 @@ Chapter.
 Include in the respective tables the necesary entries.
 
 ![disciplinedate](https://user-images.githubusercontent.com/43128425/45872377-8ba00980-bd98-11e8-8701-6ca003349a0f.jpg)
+
+![grupetable](https://user-images.githubusercontent.com/43128425/45872520-e5a0cf00-bd98-11e8-9e08-1f2484e9b455.jpg)
 
