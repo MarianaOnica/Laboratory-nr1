@@ -9,6 +9,7 @@ a)16.2  b)116.2  c)16.21  d)1116.2  e)1116.21
       116.2.
 ### Tasks2:
 [Col1] from the table is of type INT and [Col2] if of type DECIMAL(2,1)
+
 ![tabel](https://user-images.githubusercontent.com/43128425/45871494-51356d00-bd96-11e8-9cba-c147b826d070.jpg)
              
    What data type should be [Col3] if we want to process [Col1]* [Col2] ?
