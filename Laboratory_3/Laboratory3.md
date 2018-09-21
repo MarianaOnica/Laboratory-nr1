@@ -10,10 +10,7 @@ a)16.2  b)116.2  c)16.21  d)1116.2  e)1116.21
 ### Tasks2:
 [Col1] from the table is of type INT and [Col2] if of type DECIMAL(2,1)
 
-       |Tabel| Col1 | Col2 | Col 3|
-       |-----|------|------|------|
-             |  1   |  1.0 |      |
-             |  2   |  1.0 |      |
+      
              
    What data type should be [Col3] if we want to process [Col1]* [Col2] ?
 ### Answer:
@@ -27,4 +24,4 @@ Create a database called the university with default properties. within this haz
 data, create 2 tables (groups, disciplines) whose schemes are defined in section 3 .3 a
 Chapter.
 ### Answer:
-<img src = "![diagram](https://user-images.githubusercontent.com/43128425/45870449-92784d80-bd93-11e8-8f76-37e6c378d565.jpg)"/>
+![diagram](https://user-images.githubusercontent.com/43128425/45870449-92784d80-bd93-11e8-8f76-37e6c378d565.jpg)"
