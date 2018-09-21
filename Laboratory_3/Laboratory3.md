@@ -24,4 +24,7 @@ Create a database called the university with default properties. within this haz
 data, create 2 tables (groups, disciplines) whose schemes are defined in section 3 .3 a
 Chapter.
 ### Answer:
+
+![bazadedate](https://user-images.githubusercontent.com/43128425/45871872-2bf52e80-bd97-11e8-95a2-8f5dfd32d875.jpg)
+
 ![diagram](https://user-images.githubusercontent.com/43128425/45870449-92784d80-bd93-11e8-8f76-37e6c378d565.jpg)"
