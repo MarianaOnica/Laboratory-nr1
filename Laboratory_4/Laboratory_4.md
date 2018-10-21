@@ -15,3 +15,4 @@ Topic:  INSTRUCTIUNEA SELECT TRANSACT-SQL
 ### Task 3
 ## 34. Gasiti numele ~i prenumele studentilor, care nu au luat note de promovare (inclusiv note intermediare) la nicio disciplina.
 
+![35lab4](https://user-images.githubusercontent.com/43128425/47266821-5c6deb00-d544-11e8-95af-fe3d84b2b0fb.PNG)
