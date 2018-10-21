@@ -10,3 +10,8 @@ Topic:  INSTRUCTIUNEA SELECT TRANSACT-SQL
 ### Task 2
 ## 32. Fumizati numele, prenumele ~i media notelor pe grupe pentru studenti
 
+![32lab4](https://user-images.githubusercontent.com/43128425/47266808-27619880-d544-11e8-86d0-e72cd43420dc.PNG)
+
+### Task 3
+## 34. Gasiti numele ~i prenumele studentilor, care nu au luat note de promovare (inclusiv note intermediare) la nicio disciplina.
+
