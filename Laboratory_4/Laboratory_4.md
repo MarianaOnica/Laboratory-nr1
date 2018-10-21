@@ -5,6 +5,8 @@ Topic:  INSTRUCTIUNEA SELECT TRANSACT-SQL
 ### Task 1 
 ##  16. Furnizati numele și prenumele studentilor, care au studiat discipline cu un volum de lectii mai mic de 60 de ore, precum și profesorii (identificatorii) respectivi, care le-au predat.
 
-![Uploading 16lab4.PNG…]()
+![16lab4](https://user-images.githubusercontent.com/43128425/47266793-fda87180-d543-11e8-8709-17566773c4af.PNG)
 
+### Task 2
+## 32. Fumizati numele, prenumele ~i media notelor pe grupe pentru studenti
 
