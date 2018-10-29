@@ -1,7 +1,7 @@
 
 # Laboratory-nr5
 
-Topic:  TRANSACT-SQL: INSTRUCT, IUNI PROCEDURALE
+Topic:  TRANSACT-SQL: INSTRUCȚIUNI PROCEDURALE
 
 ### Task 1
 ## Completati urmatorul cod pentru a afișa eel mai mare numar dintre cele trei numere prezentate:
