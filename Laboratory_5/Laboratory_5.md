@@ -15,3 +15,5 @@ Topic:  TRANSACT-SQL: INSTRUCT, IUNI PROCEDURALE
 
 ## Modificati exercitiile din sarcinile 1 și 2 pentru a include procesarea erorilor cu TRY și CATCH, și
 RAISERRROR.
+![lab5 4 1 a](https://user-images.githubusercontent.com/43128425/47634228-71a4d400-db59-11e8-9a92-1c7e4f9212c2.PNG)
+![lab5 4 1](https://user-images.githubusercontent.com/43128425/47634230-75385b00-db59-11e8-8187-78a591c3fae0.PNG)
