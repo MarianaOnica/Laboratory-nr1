@@ -10,3 +10,8 @@ Topic:  TRANSACT-SQL: INSTRUCT, IUNI PROCEDURALE
 ### Task 3
 ## Rezolvati aceeași sarcină, 1, apelând la structura selectivâ CASE.
 ![lab5 3](https://user-images.githubusercontent.com/43128425/47632477-df99cd00-db52-11e8-9f79-7c591d05049d.PNG)
+
+### Task 4
+
+## Modificati exercitiile din sarcinile 1 și 2 pentru a include procesarea erorilor cu TRY și CATCH, și
+RAISERRROR.
