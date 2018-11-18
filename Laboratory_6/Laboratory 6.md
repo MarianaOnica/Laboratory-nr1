@@ -9,4 +9,5 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ## Sa se modifice schema tabelului grupe, ca sa corespunda urmatoarelor cerinte:
 ## a) Campul Cod_ Grupa sa accepte numai valorile unice ~i sa nu accepte valori necunoscute.
 ## b) Sa se tina cont ca cheie primarii, deja, este definitii asupra coloanei Id_ Grupa.
+![lab6 2](https://user-images.githubusercontent.com/43128425/48674995-a9e97200-eb5b-11e8-96fd-efe582104cef.PNG)
 
