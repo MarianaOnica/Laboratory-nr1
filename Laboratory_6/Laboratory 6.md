@@ -39,3 +39,6 @@ c) Sa se insereze toate datele din tabelul profesori ill tabelul profesori_new. 
 in coloana Localitate sii fie inserata doar informatia despre denumirea localitiitii din
 coloana-sursa Adresa_Postala_Profesor. in coloana Adresa_l, doar denumirea striizii. in
 coloanaAdresa_2, sii se piistreze numiirul casei și (posibil) a apartamentului.
+![lab6 5](https://user-images.githubusercontent.com/43128425/48675549-d785e980-eb62-11e8-8d22-33106c41231b.PNG)
+![lab6 5 1](https://user-images.githubusercontent.com/43128425/48675550-d785e980-eb62-11e8-840d-d8565fae0ebf.PNG)
+![lab6 5 2](https://user-images.githubusercontent.com/43128425/48675548-d785e980-eb62-11e8-8558-b54e936c3c84.PNG)
