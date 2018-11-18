@@ -47,7 +47,7 @@ coloanaAdresa_2, sii se piistreze numiirul casei și (posibil) a apartamentului.
 ### (ld_Disciplina = 107, Id_Profesor= 101, Ora ='08:00', Auditoriu = 202);
 ### (Id_Disciplina = 108, Id_Profesor= 101, Ora ='11:30', Auditoriu = 501);
 ### (ld_Disciplina = 119, Id_Profesor= 117, Ora ='13:00', Auditoriu = 501);
-
+![lab6 6](https://user-images.githubusercontent.com/43128425/48675970-bf18cd80-eb68-11e8-8be9-e2e3bbdea6f9.PNG)
 ## Task 7
 ### Sii se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INFl 71 ,ziua de luni.
 ### Datele necesare pentru inserare trebuie sa fie colectate cu ajutorul instructiunii/instructiunilor
@@ -55,3 +55,4 @@ coloanaAdresa_2, sii se piistreze numiirul casei și (posibil) a apartamentului.
 ### lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor ='Bivol Ion')
 ### lectie #2 (Ora ='11 :30', Disciplina = 'Programe aplicative', Profesor ='Mircea Sorin')
 ### lectie #3 (Ora ='13:00', Disciplina ='Baze de date', Profesor = 'Micu Elena')
+![lab6 7](https://user-images.githubusercontent.com/43128425/48675973-c3dd8180-eb68-11e8-8d94-decff4365697.PNG)
