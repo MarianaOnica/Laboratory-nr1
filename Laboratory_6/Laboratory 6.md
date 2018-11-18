@@ -42,3 +42,16 @@ coloanaAdresa_2, sii se piistreze numiirul casei și (posibil) a apartamentului.
 ![lab6 5](https://user-images.githubusercontent.com/43128425/48675549-d785e980-eb62-11e8-8d22-33106c41231b.PNG)
 ![lab6 5 1](https://user-images.githubusercontent.com/43128425/48675550-d785e980-eb62-11e8-840d-d8565fae0ebf.PNG)
 ![lab6 5 2](https://user-images.githubusercontent.com/43128425/48675548-d785e980-eb62-11e8-8558-b54e936c3c84.PNG)
+## Task 6
+### Sa se insereze datele in tabelul orarul pentru Grupa= 'CIBJ 71' (Id_ Grupa= 1) pentru ziua de luni. Toate lectiile vor avea loc ill ### blocul de studii 'B'. Mai jos, sunt prezentate detaliile deinserare:
+### (ld_Disciplina = 107, Id_Profesor= 101, Ora ='08:00', Auditoriu = 202);
+### (Id_Disciplina = 108, Id_Profesor= 101, Ora ='11:30', Auditoriu = 501);
+### (ld_Disciplina = 119, Id_Profesor= 117, Ora ='13:00', Auditoriu = 501);
+
+## Task 7
+### Sii se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INFl 71 ,ziua de luni.
+### Datele necesare pentru inserare trebuie sa fie colectate cu ajutorul instructiunii/instructiunilor
+### SELECT și introduse in tabelul-destinatie, ~tiind ca:
+### lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor ='Bivol Ion')
+### lectie #2 (Ora ='11 :30', Disciplina = 'Programe aplicative', Profesor ='Mircea Sorin')
+### lectie #3 (Ora ='13:00', Disciplina ='Baze de date', Profesor = 'Micu Elena')
