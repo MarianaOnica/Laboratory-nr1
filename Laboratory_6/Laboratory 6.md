@@ -16,4 +16,9 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ## b) Profesorul fndrumator trebuie sa predea un numiir maximal posibil de discipline la grupa data. Daca nu existii o singurii 
 ## candidaturii, care corespunde primei cerinte, atunci este ales din grupul de candidati acel cu identificatorul (Id_Profesor) minimal. Un ## profesor nu poate fi illdrumator la mai multe grupe.
 ## c) Sii se scrie instructiunile ALTER, SELECT, UPDATE necesare pentru crearea coloanelor in tabelul grupe, pentru selectarea candidatilor ## și inserarea datelor . .
-
+![lab6 3](https://user-images.githubusercontent.com/43128425/48675275-9d671880-eb5f-11e8-9903-cb3a5953d9db.PNG)
+![lab6 3 1](https://user-images.githubusercontent.com/43128425/48675277-a1933600-eb5f-11e8-8a9d-f791daff22b7.PNG)
+### Task 4
+## 4. Sa se scrie o instructiune T-SQL, care ar mari toate notele de evaluare ~efilor de grupe cu un
+## punct. Nota maximala (10) nu poate fi miirita.
+![lab6 4](https://user-images.githubusercontent.com/43128425/48675278-a48e2680-eb5f-11e8-91a3-d8b8e4db6ee3.PNG)
