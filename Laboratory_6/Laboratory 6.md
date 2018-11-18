@@ -29,12 +29,12 @@ a) Coloana Id_Profesor trebuie sa fie definita drept cheie primara ~i, ill baza 
 b) Campul Localitate trebuie sa posede proprietatea DEF A ULT= 'mun. Chisinau'.
 c) Sa se insereze toate datele din tabelul profesori ill tabelul profesori_new. Sa se scrie, cu acest scop, un numiir potrivit de instructiuni T-SQL. Datele trebuie sa fie transferate in felul urmator:
 ## Coloana-sursa                        Coloana-destinatie
-Id Profesor                          Id Profesor
-Nume Profesor                        Nume Profesor
-Prenume Profesor                     Prenume Profesor
-Adresa Postala Profesor              Localitate
-Adresa Postala Profesor              Adresa 1
-Adresa Pasta/a Profesor              Adresa 2
+# Id Profesor                          Id Profesor
+# Nume Profesor                        Nume Profesor
+# Prenume Profesor                     Prenume Profesor
+# Adresa Postala Profesor              Localitate
+# Adresa Postala Profesor              Adresa 1
+# Adresa Pasta/a Profesor              Adresa 2
 in coloana Localitate sii fie inserata doar informatia despre denumirea localitiitii din
 coloana-sursa Adresa_Postala_Profesor. in coloana Adresa_l, doar denumirea striizii. in
 coloanaAdresa_2, sii se piistreze numiirul casei ~i (posibil) a apartamentului.
