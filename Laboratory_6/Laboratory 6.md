@@ -22,3 +22,19 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ## 4. Sa se scrie o instructiune T-SQL, care ar mari toate notele de evaluare ~efilor de grupe cu un
 ## punct. Nota maximala (10) nu poate fi miirita.
 ![lab6 4](https://user-images.githubusercontent.com/43128425/48675278-a48e2680-eb5f-11e8-91a3-d8b8e4db6ee3.PNG)
+### Task 5
+## Sa se creeze un tabel profesori_new, care include urmatoarele coloane: Id_Profesor,
+## Nume _ Profesor, Prenume _ Profesor, Localitate, Adresa _ 1, Adresa _ 2.
+a) Coloana Id_Profesor trebuie sa fie definita drept cheie primara ~i, ill baza ei, sa fie construit un index CLUSTERED.
+b) Campul Localitate trebuie sa posede proprietatea DEF A ULT= 'mun. Chisinau'.
+c) Sa se insereze toate datele din tabelul profesori ill tabelul profesori_new. Sa se scrie, cu acest scop, un numiir potrivit de instructiuni T-SQL. Datele trebuie sa fie transferate in felul urmator:
+## Coloana-sursa                        Coloana-destinatie
+Id Profesor                          Id Profesor
+Nume Profesor                        Nume Profesor
+Prenume Profesor                     Prenume Profesor
+Adresa Postala Profesor              Localitate
+Adresa Postala Profesor              Adresa 1
+Adresa Pasta/a Profesor              Adresa 2
+in coloana Localitate sii fie inserata doar informatia despre denumirea localitiitii din
+coloana-sursa Adresa_Postala_Profesor. in coloana Adresa_l, doar denumirea striizii. in
+coloanaAdresa_2, sii se piistreze numiirul casei ~i (posibil) a apartamentului.
