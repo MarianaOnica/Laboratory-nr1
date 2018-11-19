@@ -39,3 +39,9 @@ Topic: Diagrame,scheme și sinonime
 ### Modificati 2-3 interogari asupra bazei de date universitatea prezentate in capitolul 4 astfel ca
 ### numele tabelelor accesate sa fie descrise in mod explicit, tinand cont de faptul ca tabelele au
 ### fost mutate in scheme noi.
+![lab7 7 1](https://user-images.githubusercontent.com/43128425/48720306-1c278880-ec28-11e8-8961-6c1dce6f71b7.PNG)
+![lab7 7 2](https://user-images.githubusercontent.com/43128425/48720303-17fb6b00-ec28-11e8-9327-fbea0e900122.PNG)
+## Task8
+### Creati sinonimele respective pentru a simplifica interogarile construite in exercitiul precedent
+### și reformulati interogarile, folosind sinonimele create.
+
