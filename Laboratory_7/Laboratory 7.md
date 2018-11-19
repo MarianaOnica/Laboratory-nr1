@@ -20,3 +20,8 @@ Topic: Diagrame,scheme și sinonime
 ## Task 4
 ### Tabelul orarul trebuie sa contina ~i 2 chei secundare: (Zi, Ora, Id_ Grupa, Id_ Profesor) ~i
 ### (Zi, Ora, ld_Grupa, ld_Disciplina).
+![lab7 4 1](https://user-images.githubusercontent.com/43128425/48714445-6a825a80-ec1b-11e8-8702-5ed77f90a690.PNG)
+![lab7 4 2](https://user-images.githubusercontent.com/43128425/48714450-6d7d4b00-ec1b-11e8-8a62-1d0f0d2619e8.PNG)
+## Task 5
+### În diagrama, de asemenea, trebuie sa se defineasca constrangerile referentiale (FK-PK) ale
+### atributelor ld_Disciplina, ld_Profesor, Id_ Grupa din tabelului orarul cu atributele tabelelor respective.
