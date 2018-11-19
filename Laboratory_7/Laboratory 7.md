@@ -44,4 +44,6 @@ Topic: Diagrame,scheme și sinonime
 ## Task8
 ### Creati sinonimele respective pentru a simplifica interogarile construite in exercitiul precedent
 ### și reformulati interogarile, folosind sinonimele create.
+![lab7 8 1](https://user-images.githubusercontent.com/43128425/48722127-fdc38c00-ec2b-11e8-9b69-5d754d74f95c.PNG)
+![lab7 8 2](https://user-images.githubusercontent.com/43128425/48722448-b7226180-ec2c-11e8-88ac-0293032c69d0.PNG)
 
