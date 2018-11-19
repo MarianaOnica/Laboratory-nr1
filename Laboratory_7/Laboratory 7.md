@@ -10,9 +10,13 @@ Topic: Diagrame,scheme și sinonime
 ### Sa se adauge constrangeri referentiale (legate cu tabelele studenti și profesori) necesare
 ### coloanelor Sef_grupa și Prof_Indrumator (sarcina3, capitolul 6) din tabelul grupe.
 ![lab7 2](https://user-images.githubusercontent.com/43128425/48713107-30638980-ec18-11e8-812b-cea4abc40723.PNG)
-## Task 2
+## Task 3
 ### La diagrama construitii, sa se adauge și tabelul orarul definit in capitolul 6 al acestei lucrari:
 ### tabelul orarul contine identificatorul disciplinei (ld_Disciplina), identificatorul profesorului
 ### (Id_Profesor) și blocul de studii (Bloc). Cheia tabelului este constituita din trei cfunpuri:
 ### identificatorul grupei (Id_ Grupa), ziua lectiei (Z1), ora de inceput a lectiei (Ora) , sala unde
 ### are loc lectia (Auditoriu).
+![lab7 3](https://user-images.githubusercontent.com/43128425/48713833-f98e7300-ec19-11e8-929e-7ac896a639f9.PNG)
+## Task 4
+### Tabelul orarul trebuie sa contina ~i 2 chei secundare: (Zi, Ora, Id_ Grupa, Id_ Profesor) ~i
+### (Zi, Ora, ld_Grupa, ld_Disciplina).
