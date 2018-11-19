@@ -26,3 +26,9 @@ Topic: Diagrame,scheme și sinonime
 ### În diagrama, de asemenea, trebuie sa se defineasca constrangerile referentiale (FK-PK) ale
 ### atributelor ld_Disciplina, ld_Profesor, Id_ Grupa din tabelului orarul cu atributele tabelelor respective.
 ![lab7 5](https://user-images.githubusercontent.com/43128425/48715225-314aea00-ec1d-11e8-8e45-9fb8fe862ec5.PNG)
+## Task 6
+### Creati, in baza de date universitatea, trei scheme noi: cadre_didactice, plan_studii ~i studenti.
+### Transferati tabelul profesori din schema dbo in schema cadre didactice, tinand cont de
+### dependentelor definite asupra tabelului mentionat. in acela~i mod ~ se trateze tabelele orarul,
+### discipline care apartin schemei plan_studii ~i tabelele studenti, studenti_reusita, care apartin
+### schemei studenti. Se scrie instructiunile SQL respective.
