@@ -32,3 +32,10 @@ Topic: Diagrame,scheme și sinonime
 ### dependentelor definite asupra tabelului mentionat. in acela~i mod ~ se trateze tabelele orarul,
 ### discipline care apartin schemei plan_studii ~i tabelele studenti, studenti_reusita, care apartin
 ### schemei studenti. Se scrie instructiunile SQL respective.
+![lab7 6 3](https://user-images.githubusercontent.com/43128425/48717161-82f57380-ec21-11e8-9644-1bc234bf831a.PNG)
+![lab7 6 1](https://user-images.githubusercontent.com/43128425/48717162-82f57380-ec21-11e8-9dd6-6c0367356e6c.PNG)
+![lab7 6 2](https://user-images.githubusercontent.com/43128425/48717163-82f57380-ec21-11e8-8f2f-3eba13f42db7.PNG)
+## Task 7
+### Modificati 2-3 interogari asupra bazei de date universitatea prezentate in capitolul 4 astfel ca
+### numele tabelelor accesate sa fie descrise in mod explicit, tinand cont de faptul ca tabelele au
+### fost mutate in scheme noi.
