@@ -9,3 +9,4 @@ Topic: Diagrame,scheme și sinonime
 ## Task 2
 ### Sa se adauge constrangeri referentiale (legate cu tabelele studenti ~i profesori) necesare
 ### coloanelor Sef_grupa ~i Prof_Indrumator (sarcina3, capitolul 6) din tabelul grupe.
+![lab7 2](https://user-images.githubusercontent.com/43128425/48713107-30638980-ec18-11e8-812b-cea4abc40723.PNG)
