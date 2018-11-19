@@ -25,3 +25,4 @@ Topic: Diagrame,scheme și sinonime
 ## Task 5
 ### În diagrama, de asemenea, trebuie sa se defineasca constrangerile referentiale (FK-PK) ale
 ### atributelor ld_Disciplina, ld_Profesor, Id_ Grupa din tabelului orarul cu atributele tabelelor respective.
+![lab7 5](https://user-images.githubusercontent.com/43128425/48715225-314aea00-ec1d-11e8-8e45-9fb8fe862ec5.PNG)
