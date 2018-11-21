@@ -6,6 +6,9 @@ Topic: Administrarea viziunilor și a expresiilor-tabel
 ### Sa se creeze doua viziuni in baza interogarilor formulate in doua exercitii indicate din capitolul
 ### 4. Prima viziune sa fie construita in Editorul de interogari, iar a doua, utilizand View
 ### Designer.
+![lab8 1 1](https://user-images.githubusercontent.com/43128425/48831795-49874a00-ed80-11e8-8bce-f356db58f4fc.PNG)
+![lab8 1 2](https://user-images.githubusercontent.com/43128425/48831803-4e4bfe00-ed80-11e8-90f8-328236909c41.PNG)
+![lab8 1 3](https://user-images.githubusercontent.com/43128425/48831802-4db36780-ed80-11e8-9c0c-d7c8933ec148.PNG)
 
 ## Task 2
 ### 2. Sa se scrie cate un exemplu de instructiuni INSERT, UPDATE, DELETE asupra viziunilor
