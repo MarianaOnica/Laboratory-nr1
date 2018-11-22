@@ -22,6 +22,9 @@ Topic: Administrarea viziunilor și a expresiilor-tabel
 
 Nu poate fi realizată inserarea in view-ul creat anterior , deoarece elementele pentru înserate trebuie înserate mai întâi în tabelele din care se crează view-ul, dar deși noi nu avem acces la tabele, nu se poate realiza înserarea elementelor.
 #####
+![lab8 2 3](https://user-images.githubusercontent.com/43128425/48891524-42297480-ee44-11e8-982a-b19909764148.PNG)
+La instrucțiunea Delete, deasemenea ne confruntăm cu problema tabelelor din spatele view-ului. Astfel nu se poate efectua această instrucțiune
+
 ## Task 3
 ### Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 1) in așa fel, incat
 ### sa nu fie posibila modificarea sau ștergerea tabelelor pe care acestea sunt definite și viziunile
