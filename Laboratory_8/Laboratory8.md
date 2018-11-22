@@ -15,9 +15,11 @@ Topic: Administrarea viziunilor și a expresiilor-tabel
 ### create. Sa se adauge comentariile respective referitoare la rezultatele executarii acestor
 ### instructiuni.
 ![lab8 2 1](https://user-images.githubusercontent.com/43128425/48889689-5b7bf200-ee3f-11e8-9e51-63ce93ba25d6.PNG)
+
 În această imagine este prezentă o eroare la executarea instrucțiunii update pentru view-ul creat anterior, deoarece el afișează informația într-un tabel în urma unor interacțiuni din alte tabele . Astfel un view nu are acces la operațiile de creare a viziunii. Dacă s-ar fi creat viziunea în baza la un singur tabel,atunci ar fi posibil de executat update-ul.
 #####
 ![lab8 2 2](https://user-images.githubusercontent.com/43128425/48889690-5b7bf200-ee3f-11e8-9a8b-6d2cde859126.PNG)
+
 Nu poate fi realizată inserarea in view-ul creat anterior , deoarece elementele pentru înserate trebuie înserate mai întâi în tabelele din care se crează view-ul, dar deși noi nu avem acces la tabele, nu se poate realiza înserarea elementelor.
 #####
 ## Task 3
