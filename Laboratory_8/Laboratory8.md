@@ -29,10 +29,19 @@ La instrucțiunea Delete, deasemenea ne confruntăm cu problema tabelelor din sp
 ### Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 1) in așa fel, incat
 ### sa nu fie posibila modificarea sau ștergerea tabelelor pe care acestea sunt definite și viziunile
 ### sa nu accepte operatiuni DML, daca conditiile clauzei WHERE nu sunt satis:facute.
+![lab8 3 1](https://user-images.githubusercontent.com/43128425/48982562-f2210b00-f0ec-11e8-96e8-0951e7f8e791.PNG)
+![lab8 3 2](https://user-images.githubusercontent.com/43128425/48982563-f2210b00-f0ec-11e8-91c3-64e869982b0a.PNG)
 
 ## Task 4
 ### Sa se scrie instructiunile de testare a proprietatilor noi definite.
+For first view
+![lab8 4 1](https://user-images.githubusercontent.com/43128425/48982564-f2b9a180-f0ec-11e8-908f-57e3fbcea7cc.PNG)
 
+![lab8 4 4](https://user-images.githubusercontent.com/43128425/48982566-f77e5580-f0ec-11e8-8ff7-b8f668ab162c.PNG)
+For second view
+![lab8 4 2](https://user-images.githubusercontent.com/43128425/48982567-f77e5580-f0ec-11e8-9222-3bcfbbbbe02a.PNG)
+
+![lab8 4 3](https://user-images.githubusercontent.com/43128425/48982569-f816ec00-f0ec-11e8-961c-d18bd943087a.PNG)
 ## Task 5
 ### Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in așa fel. incat interogarile
 ### imbricate sa fie redate sub forma expresiilor CTE.
