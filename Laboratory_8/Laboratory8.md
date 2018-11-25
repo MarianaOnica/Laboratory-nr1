@@ -45,6 +45,9 @@ For second view
 ## Task 5
 ### Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in așa fel. incat interogarile
 ### imbricate sa fie redate sub forma expresiilor CTE.
+![lab8 5 1](https://user-images.githubusercontent.com/43128425/48984138-c0b23a80-f100-11e8-956e-f84845aa8059.PNG)
+
+![lab8 5 2](https://user-images.githubusercontent.com/43128425/48984133-b8f29600-f100-11e8-996c-1a30110e11b0.PNG)
 
 ## Task 6
 ### Se considera un graf orientat, precum eel din figura de mai jos și fie se dore~te parcursa calea
@@ -52,3 +55,8 @@ For second view
 ### expresie-tabel recursiv.
 ### Sa se observe instructiunea de dupa UNION ALL a membrului recursiv, precum și partea de
 ### pana la UNION ALL reprezentata de membrul-ancora.
+![lab8 6](https://user-images.githubusercontent.com/43128425/48984134-b8f29600-f100-11e8-9d5c-ca6a47ff7f15.PNG)
+
+![lab8 6 1](https://user-images.githubusercontent.com/43128425/48984135-b98b2c80-f100-11e8-8373-3bf6636f6d69.PNG)
+
+![lab8 6 2](https://user-images.githubusercontent.com/43128425/48984132-b8f29600-f100-11e8-9e74-8a3162a677f6.PNG)
