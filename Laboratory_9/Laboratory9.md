@@ -5,7 +5,9 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ## Task 1
 ### Sa se creeze proceduri stocate in baza exercitiilor (2 exercitii) din capitolul 4. Parametrii de
 ### intrare trebuie sa corespunda criteriilor din clauzele WHERE ale exercitiilor respective .
+![lab9 1 1](https://user-images.githubusercontent.com/43128425/49003798-613d4480-f16b-11e8-8f5f-78ec58bfff2d.PNG)
 
+![lab9 1 2](https://user-images.githubusercontent.com/43128425/49003797-613d4480-f16b-11e8-84db-a065dbaefc2d.PNG)
 ## Task 2
 ### Sa se creeze o procedura stocata, care nu are niciun parametru de intrare și poseda un
 ### parametru de ieșire. Parametrul de ieșire trebuie sa returneze numarul de studenti, care nu au
