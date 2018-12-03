@@ -28,7 +28,13 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ### de intrare: numele si prenumele profesorului vechi, numele si prenumele profesorului nou,
 ### disciplina. in cazul in care datele inserate sunt incorecte sau incomplete, sa se afiseze un
 ### mesaj de avertizare.
+![lab9 4 1](https://user-images.githubusercontent.com/43128425/49402973-24b5ae00-f754-11e8-8185-4f47d986c69b.PNG)
 
+![lab9 4 2](https://user-images.githubusercontent.com/43128425/49402974-24b5ae00-f754-11e8-82c9-b34a8f44a58c.PNG)
+
+![lab9 4 3](https://user-images.githubusercontent.com/43128425/49402976-24b5ae00-f754-11e8-9879-5b31db09e1dc.PNG)
+
+![lab9 4 4](https://user-images.githubusercontent.com/43128425/49402984-2bdcbc00-f754-11e8-8223-d5f354c590f0.PNG)
 ## Task 5
 ### Sa se creeze o procedura stocata care ar forma o lista cu primii 3 cei mai buni studenti la o
 ### disciplina, si acestor studenti sa le fie marita nota la examenul final cu un punct (nota
