@@ -12,12 +12,15 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ### Sa se creeze o procedura stocata, care nu are niciun parametru de intrare și poseda un
 ### parametru de ieșire. Parametrul de ieșire trebuie sa returneze numarul de studenti, care nu au
 ### sustinut cel putin o forma de evaluare (nota mai mica de 5 sau valoare NULL).
+![lab9 2](https://user-images.githubusercontent.com/43128425/49356710-3c018680-f6d5-11e8-908a-526bc4e36e85.PNG)
 
 ## Task 3
 ### Sa se creeze o procedura stocata, care ar insera in baza de date informatii despre un student
 ### nou. In calitate de parametri de intrare sa serveasca datele personale ale studentului nou si
 ### Cod_ Grupa. Sa se genereze toate intrarile-cheie necesare in tabelul studenti_reusita. Notele
 ### de evaluare sa fie inserate ca NULL.
+![lab9 3 1](https://user-images.githubusercontent.com/43128425/49356711-3c018680-f6d5-11e8-9173-d43480c2e0df.PNG)
+![lab9 3 2](https://user-images.githubusercontent.com/43128425/49356715-428ffe00-f6d5-11e8-9828-7995876c91b8.PNG)
 
 ## Task 4
 ### Fie ca un profesor se elibereaza din functie la mijlocul semestrului. Sa se creeze o procedura
