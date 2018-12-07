@@ -49,6 +49,9 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ### Sa se creeze functii definite de utilizator in baza exercitiilor (2 exercitii) din capitolul 4.
 ### Parametrii de intrare trebuie sa corespunda criteriilor din clauzele WHERE ale exercitiilor
 ### respective.
+![lab9 6 1](https://user-images.githubusercontent.com/43128425/49669066-ca289480-fa68-11e8-8965-63a3339eaf7a.PNG)
+
+![lab9 6 2](https://user-images.githubusercontent.com/43128425/49669070-cdbc1b80-fa68-11e8-8f5d-0fbc6043b87a.PNG)
 
 ## Task 7
 ### Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmatorul format al
