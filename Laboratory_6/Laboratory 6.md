@@ -32,6 +32,7 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 <p> a) Coloana Id_Profesor trebuie să fie definită drept cheie primară și, in baza ei, să fie construit un index CLUSTERED.</p>
 <p> b) Câmpul Localitate trebuie să posede proprietatea DEFAULT= 'mun. Chisinau'.</p>
 <p> c) Sa se insereze toate datele din tabelul profesori in tabelul profesori_new. Să se scrie, cu acest scop, un număr potrivit de instrucțiuni T-SQL.</p>
+
 ### Datele trebuie sa fie transferate în felul următor:
 ## Coloana-sursa                        Coloana-destinatie
 ### Id Profesor                          Id Profesor
@@ -40,6 +41,7 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ### Adresa Postala Profesor              Localitate
 ### Adresa Postala Profesor              Adresa 1
 ### Adresa Pasta/a Profesor              Adresa 2
+
 in coloana Localitate sii fie inserata doar informatia despre denumirea localitiitii din
 coloana-sursa Adresa_Postala_Profesor. in coloana Adresa_l, doar denumirea străzii. in
 coloana Adresa_2, să se păstreze numărul casei și (posibil) a apartamentului.
