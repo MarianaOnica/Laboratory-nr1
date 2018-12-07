@@ -60,7 +60,7 @@ Topic: Proceduri stocate și funcții definite de utilizator
 
 ## Task 8
 <h3> Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui student. Se definește următorul format al functiei:</h3>
-### <nume funcție>(<Nume_Prenume_Student>). 
+## <nume funcție>(<Nume_Prenume_Student>). 
 <h3>Să fie afișat tabelul cu următoarele câmpuri:Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.</h3>
 
 ## Task 9
