@@ -56,6 +56,7 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ## Task 7
 ### Sa se scrie funcția care ar calcula vârsta studentului. Sa se definească următorul format al funcției: 
 ### <nume funcție>(<Data_Nastere_Student>).
+![lab9 7](https://user-images.githubusercontent.com/43128425/49670532-a61b8200-fa6d-11e8-8ea5-a6e8f59ab8c5.PNG)
 
 ## Task 8
 <h3> Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui student. Se definește următorul format al functiei:<nume funcție> (<Nume_Prenume_Student>). Să fie afișat tabelul cu următoarele câmpuri:Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.</h3>
