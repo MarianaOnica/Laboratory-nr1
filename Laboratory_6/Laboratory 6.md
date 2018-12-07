@@ -12,9 +12,12 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ![lab6 2](https://user-images.githubusercontent.com/43128425/48674995-a9e97200-eb5b-11e8-96fd-efe582104cef.PNG)
 ## Task 3
 ### La tabelul grupe, sa se adauge 2 coloane noi Sef_grupa și Prof_Indrumator, ambele de tip INT. Să se populeze cmpurile nou-create  ### cu cele mai potrivite candidaturi in baza criteriilor de mai jos:
+
 ### a) Șeful grupei trebuie sa aibă cea mai bună reușită (medie) din grupă la toate formele de evaluare și la toate disciplinele. Un   ### student nu poate fi șef de grupă la mai multe grupe.
+
 ### b) Profesorul îndrumător trebuie sa predea un număr maximal posibil de discipline la grupa dată. Daca nu există o singură 
 ### candidatură, care corespunde primei cerințe, atunci este ales din grupul de candidați acel cu identificatorul (Id_Profesor)      ### minimal. Un profesor nu poate fi indrumător la mai multe grupe.
+
 ### c) Să se scrie instrucțiunile ALTER, SELECT, UPDATE necesare pentru crearea coloanelor în tabelul grupe, pentru selectarea
 ### candidaților și inserarea datelor.
 ![lab6 3](https://user-images.githubusercontent.com/43128425/48675275-9d671880-eb5f-11e8-9903-cb3a5953d9db.PNG)
@@ -26,9 +29,10 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ## Task 5
 ### Să se creeze un tabel profesori_new, care include urmatoărele coloane: Id_Profesor,
 ### Nume _ Profesor, Prenume _ Profesor, Localitate, Adresa _ 1, Adresa _ 2.
-a) Coloana Id_Profesor trebuie să fie definită drept cheie primară și, in baza ei, să fie construit un index CLUSTERED.
-b) Câmpul Localitate trebuie să posede proprietatea DEFAULT= 'mun. Chisinau'.
-c) Sa se insereze toate datele din tabelul profesori in tabelul profesori_new. Să se scrie, cu acest scop, un număr potrivit de instrucțiuni T-SQL. Datele trebuie sa fie transferate în felul următor:
+<p> a) Coloana Id_Profesor trebuie să fie definită drept cheie primară și, in baza ei, să fie construit un index CLUSTERED.</p>
+<p> b) Câmpul Localitate trebuie să posede proprietatea DEFAULT= 'mun. Chisinau'.</p>
+<p> c) Sa se insereze toate datele din tabelul profesori in tabelul profesori_new. Să se scrie, cu acest scop, un număr potrivit de instrucțiuni T-SQL.</p>
+### Datele trebuie sa fie transferate în felul următor:
 ## Coloana-sursa                        Coloana-destinatie
 ### Id Profesor                          Id Profesor
 ### Nume Profesor                        Nume Profesor
