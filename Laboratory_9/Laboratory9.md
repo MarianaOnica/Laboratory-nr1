@@ -62,6 +62,7 @@ Topic: Proceduri stocate și funcții definite de utilizator
 <h3> Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui student. Se definește următorul format al functiei:</h3>
 ## <nume funcție>(<Nume_Prenume_Student>). 
 <h3>Să fie afișat tabelul cu următoarele câmpuri:Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.</h3>
+![lab9 8](https://user-images.githubusercontent.com/43128425/49672325-5e97f480-fa73-11e8-90a8-cbde55a4ce85.PNG)
 
 ## Task 9
 <h3> Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau cel mai slab student dintr-o grupă. Se definește următorul format al funcției:<nume_funcție>(<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile     "sârguincios" sau "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa, Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.</h3>
