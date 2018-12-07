@@ -12,7 +12,7 @@ Topic:  TRANSACT-SQL: INSTRUCȚIUNI PROCEDURALE
 ![lab5 2](https://user-images.githubusercontent.com/43128425/47641650-4927d480-db6f-11e8-8903-3a5f0097f7c2.PNG)
 
 ### Task 3
-## Rezolvati aceeași sarcină, 1, apelând la structura selectivâ CASE.
+## Rezolvați aceeași sarcină, 1, apelând la structura selectivă CASE.
 ![lab5 3](https://user-images.githubusercontent.com/43128425/47632477-df99cd00-db52-11e8-9f79-7c591d05049d.PNG)
 
 ### Task 4
