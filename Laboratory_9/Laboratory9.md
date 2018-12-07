@@ -69,3 +69,8 @@ Topic: Proceduri stocate și funcții definite de utilizator
 <h3> Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau cel mai slab student dintr-o grupă. Se definește următorul format al funcției:
 <nume_funcție>(<Cod_ Grupa>, <is_good>). 
 Parametrul <is_good> poate accepta valorile "sârguincios" sau "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa, Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.</h3>
+
+![lab9 9 1](https://user-images.githubusercontent.com/43128425/49673436-272b4700-fa77-11e8-99d6-3c64bb8496f0.PNG)
+
+![lab9 9 2](https://user-images.githubusercontent.com/43128425/49673441-2abece00-fa77-11e8-909f-6955eb4a7dcd.PNG)
+
