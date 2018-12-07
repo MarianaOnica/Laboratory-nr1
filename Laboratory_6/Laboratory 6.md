@@ -13,13 +13,12 @@ Topic: CREAREA TABELELOR ȘI INDECȘILOR
 ## Task 3
 ### La tabelul grupe, sa se adauge 2 coloane noi Sef_grupa și Prof_Indrumator, ambele de tip INT. Să se populeze cmpurile nou-create  ### cu cele mai potrivite candidaturi in baza criteriilor de mai jos:
 
-### a) Șeful grupei trebuie sa aibă cea mai bună reușită (medie) din grupă la toate formele de evaluare și la toate disciplinele. Un   ### student nu poate fi șef de grupă la mai multe grupe.
+<p> a) Șeful grupei trebuie sa aibă cea mai bună reușită (medie) din grupă la toate formele de evaluare și la toate disciplinele. Un  student nu poate fi șef de grupă la mai multe grupe.</p>
 
-### b) Profesorul îndrumător trebuie sa predea un număr maximal posibil de discipline la grupa dată. Daca nu există o singură 
-### candidatură, care corespunde primei cerințe, atunci este ales din grupul de candidați acel cu identificatorul (Id_Profesor)      ### minimal. Un profesor nu poate fi indrumător la mai multe grupe.
+<p> b) Profesorul îndrumător trebuie sa predea un număr maximal posibil de discipline la grupa dată. Daca nu există o singură  candidatură, care corespunde primei cerințe, atunci este ales din grupul de candidați acel cu identificatorul (Id_Profesor) minimal. Un profesor nu poate fi indrumător la mai multe grupe.</p>
 
-### c) Să se scrie instrucțiunile ALTER, SELECT, UPDATE necesare pentru crearea coloanelor în tabelul grupe, pentru selectarea
-### candidaților și inserarea datelor.
+<p> c) Să se scrie instrucțiunile ALTER, SELECT, UPDATE necesare pentru crearea coloanelor în tabelul grupe, pentru selectarea candidaților și inserarea datelor.</p>
+
 ![lab6 3](https://user-images.githubusercontent.com/43128425/48675275-9d671880-eb5f-11e8-9903-cb3a5953d9db.PNG)
 ![lab6 3 1](https://user-images.githubusercontent.com/43128425/48675277-a1933600-eb5f-11e8-8a9d-f791daff22b7.PNG)
 ## Task 4
