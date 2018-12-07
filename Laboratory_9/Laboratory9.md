@@ -55,7 +55,8 @@ Topic: Proceduri stocate și funcții definite de utilizator
 
 ## Task 7
 ### Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmatorul format al
-### functiei: <nume Juncfie>(<Data _ Nastere _Student>).
+### functiei: 
+### <nume Juncfie>(<Data _ Nastere _Student>).
 
 ## Task 8
 ### Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reW?ita unui
