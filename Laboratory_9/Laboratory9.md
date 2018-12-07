@@ -55,18 +55,16 @@ Topic: Proceduri stocate și funcții definite de utilizator
 
 ## Task 7
 ### Sa se scrie funcția care ar calcula vârsta studentului. Sa se definească următorul format al funcției: 
-### <nume funcție>(<Data _ Nastere _Student>).
+### <nume funcție>(<Data_Nastere_Student>).
 
 ## Task 8
-### Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reW?ita unui
-### student. Se define~te urmatorul format al functiei: <nume Juncfie>
-### (<Nume_Prenume_Student>). Sa fie afi~at tabelul cu urmatoarele campuri:
-### Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.
+### Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui
+### student. Se definește următorul format al functiei:<nume funcție> (<Nume_Prenume_Student>). Să fie afișat tabelul cu 
+### următoarele câmpuri:Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.
 
 ## Task 9
-### Se cere realizarea unei functii definite de utilizator, care ar gasi eel mai sarguincios sau eel
-### mai slab student dintr-o grupa. Se define~te urmatorul format al functiei: <numeJuncfie>
-### (<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile "sarguincios" sau
-### "slab", respectiv. Functia sa returneze un tabel cu urmatoarele campuri Grupa,
-### Nume_Prenume_Student, Nota Medie , is_good. Nota Medie sa fie cu precizie de 2
-### zecimale.
+### Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau eel
+### mai slab student dintr-o grupă. Se definește următorul format al funcției:<nume_funcție>
+### (<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile "sârguincios" sau
+### "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa,
+### Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.
