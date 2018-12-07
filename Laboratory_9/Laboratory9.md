@@ -66,4 +66,6 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ![lab9 8](https://user-images.githubusercontent.com/43128425/49672325-5e97f480-fa73-11e8-90a8-cbde55a4ce85.PNG)
 
 ## Task 9
-<h3> Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau cel mai slab student dintr-o grupă. Se definește următorul format al funcției:<nume_funcție>(<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile     "sârguincios" sau "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa, Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.</h3>
+<h3> Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau cel mai slab student dintr-o grupă. Se definește următorul format al funcției:
+<nume_funcție>(<Cod_ Grupa>, <is_good>). 
+Parametrul <is_good> poate accepta valorile "sârguincios" sau "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa, Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.</h3>
