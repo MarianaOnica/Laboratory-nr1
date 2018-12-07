@@ -54,9 +54,8 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ![lab9 6 2](https://user-images.githubusercontent.com/43128425/49669070-cdbc1b80-fa68-11e8-8f5d-0fbc6043b87a.PNG)
 
 ## Task 7
-### Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmatorul format al
-### functiei: 
-### <nume Juncfie>(<Data _ Nastere _Student>).
+### Sa se scrie funcția care ar calcula vârsta studentului. Sa se definească următorul format al funcției: 
+### <nume funcție>(<Data _ Nastere _Student>).
 
 ## Task 8
 ### Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reW?ita unui
