@@ -58,13 +58,7 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ### <nume funcție>(<Data_Nastere_Student>).
 
 ## Task 8
-### Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui
-### student. Se definește următorul format al functiei:<nume funcție> (<Nume_Prenume_Student>). Să fie afișat tabelul cu 
-### următoarele câmpuri:Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.
+### Sa se creeze o functie definită de utilizator, care ar returna datele referitoare la reușita unui student. Se definește următorul ### format al functiei:<nume funcție> (<Nume_Prenume_Student>). Să fie afișat tabelul cu următoarele câmpuri:Nume_Prenume_Student,    ### Disticplina, Nota, Data_Evaluare.
 
 ## Task 9
-### Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau eel
-### mai slab student dintr-o grupă. Se definește următorul format al funcției:<nume_funcție>
-### (<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile "sârguincios" sau
-### "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa,
-### Nume_Prenume_Student, Nota Medie , is_good. Nota Medie să fie cu precizie de 2 ecimale.
+### Se cere realizarea unei funcții definite de utilizator, care ar găsi cel mai sârguincios sau cel mai slab student dintr-o grupă. Se ### definește următorul format al funcției:<nume_funcție>(<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile       ### "sârguincios" sau "slab", respectiv. Funcția să returneze un tabel cu următoarele câmpuri Grupa, Nume_Prenume_Student, Nota Medie , ### is_good. Nota Medie să fie cu precizie de 2 ecimale.
