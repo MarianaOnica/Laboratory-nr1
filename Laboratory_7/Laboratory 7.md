@@ -3,12 +3,12 @@
 Topic: Diagrame,scheme și sinonime
 
 ## Task 1
-### Creati o diagrama a bazei de date, folosind fonna de vizualizare standard, structura careia este
-### descrisa la inceputul sarcinilor practice din capitolul 4.
+### Creati o diagrama a bazei de date, folosind forma de vizualizare standard, structura căreia este
+### descrisă la inceputul sarcinilor practice din capitolul 4.
 ![lab7 1](https://user-images.githubusercontent.com/43128425/48711656-77e81680-ec14-11e8-9e1d-fdbb8838753c.PNG)
 ## Task 2
-### Sa se adauge constrangeri referentiale (legate cu tabelele studenti și profesori) necesare
-### coloanelor Sef_grupa și Prof_Indrumator (sarcina3, capitolul 6) din tabelul grupe.
+### Să se adauge constrângeri referențiale (legate cu tabelele studenti și profesori) necesare
+### coloanelor Sef_grupa și Prof_Indrumător (sarcina3, capitolul 6) din tabelul grupe.
 ![lab7 2](https://user-images.githubusercontent.com/43128425/48713107-30638980-ec18-11e8-812b-cea4abc40723.PNG)
 ## Task 3
 ### La diagrama construitii, sa se adauge și tabelul orarul definit in capitolul 6 al acestei lucrari:
@@ -29,8 +29,8 @@ Topic: Diagrame,scheme și sinonime
 ## Task 6
 ### Creati, in baza de date universitatea, trei scheme noi: cadre_didactice, plan_studii ~i studenti.
 ### Transferati tabelul profesori din schema dbo in schema cadre didactice, tinand cont de
-### dependentelor definite asupra tabelului mentionat. in acela~i mod ~ se trateze tabelele orarul,
-### discipline care apartin schemei plan_studii ~i tabelele studenti, studenti_reusita, care apartin
+### dependentelor definite asupra tabelului mentionat. in același mod să se trateze tabelele orarul,
+### discipline care apartin schemei plan_studii și tabelele studenti, studenti_reusita, care apartin
 ### schemei studenti. Se scrie instructiunile SQL respective.
 ![lab7 6 3](https://user-images.githubusercontent.com/43128425/48717161-82f57380-ec21-11e8-9644-1bc234bf831a.PNG)
 ![lab7 6 1](https://user-images.githubusercontent.com/43128425/48717162-82f57380-ec21-11e8-9dd6-6c0367356e6c.PNG)
