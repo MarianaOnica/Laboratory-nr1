@@ -41,6 +41,9 @@ Topic: Proceduri stocate și funcții definite de utilizator
 ### maximala posibila este 10). in calitate de parametru de intrare, va servi denumirea disciplinei.
 ### Procedura sa returneze urmatoarele campuri: Cod_ Grupa, Nume_Prenume_Student,
 ### Disciplina, Nota Veche, Nota Noua.
+![lab9 5 1](https://user-images.githubusercontent.com/43128425/49667542-1c1aeb80-fa64-11e8-8be0-565ef83450a3.PNG)
+
+![lab9 5 2](https://user-images.githubusercontent.com/43128425/49667548-1fae7280-fa64-11e8-8428-5e23890a7018.PNG)
 
 ## Task 6
 ### Sa se creeze functii definite de utilizator in baza exercitiilor (2 exercitii) din capitolul 4.
