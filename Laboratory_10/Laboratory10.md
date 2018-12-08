@@ -3,7 +3,7 @@
 Topic: Crearea și utilizarea Declanșatoarelor
 
 ## Task 1
-Sa se modifice declanșatorul inregistrare_noua, în așa fel, încât î cazul actualizării
+Sa se modifice declanșatorul inregistrare_noua, în așa fel, încât în cazul actualizării
 auditoriului să apară mesajul de informare, care, în afară de disciplina și ora, va afișa codul
 grupei afectate, ziua, blocul, auditoriul vechi și auditoriul nou.
 ## Task 2
