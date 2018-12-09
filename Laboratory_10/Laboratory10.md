@@ -7,10 +7,13 @@ Topic: Crearea și utilizarea Declanșatoarelor
 auditoriului să apară mesajul de informare, care, în afară de disciplina și ora, va afișa codul
 grupei afectate, ziua, blocul, auditoriul vechi și auditoriul nou.</h3>
 Înainte de modificare 
+
 ![lab10 1](https://user-images.githubusercontent.com/43128425/49701806-c8daa180-fbf9-11e8-9181-9b5c581cc7cf.PNG)
 ![lab10 1 1](https://user-images.githubusercontent.com/43128425/49701807-c8daa180-fbf9-11e8-814f-17be1094a8cc.PNG)
 ![lab10 1 2](https://user-images.githubusercontent.com/43128425/49701808-c9733800-fbf9-11e8-9331-e8bc97477b3a.PNG)
+
 După modificare
+
 ![lab10 1 3](https://user-images.githubusercontent.com/43128425/49701812-d001af80-fbf9-11e8-83e2-6f4ee11970b3.PNG)
 
 ## Task 2
