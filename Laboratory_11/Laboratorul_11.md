@@ -6,6 +6,11 @@ Topic: Recuperarea bazei de date
 Sa se creeze un dosar Backup_labll. Sa se execute un backup complet al bazei de date
 universitatea in acest dosar. Fișierul copiei de rezervă să se numească exercitiull.bak. Sa se
 scrie instructiunea SQL respectiva.
+
+![lab11 1](https://user-images.githubusercontent.com/43128425/49717226-01f92d00-fc5f-11e8-99bd-a375d6ca2e32.PNG)
+![lab11 1 1](https://user-images.githubusercontent.com/43128425/49717227-01f92d00-fc5f-11e8-8720-e745c49e29a5.PNG)
+![lab11 1 2](https://user-images.githubusercontent.com/43128425/49717231-04f41d80-fc5f-11e8-91bc-be52289af154.PNG)
+
 ## Task 2
 Sa se scrie instructiunea unui backup diferentiat al bazei de date universitatea. Fișierul copiei
 de rezervă să se numească exercitiul2.bak.
