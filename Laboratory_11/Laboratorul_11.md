@@ -13,7 +13,7 @@ scrie instructiunea SQL respectiva.
 
 Utilizand instructiunea SQL
 
-![lab11 1 3](https://user-images.githubusercontent.com/43128425/49719020-99ad4a00-fc64-11e8-9981-79b53b622656.PNG)
+![lab11 1 3](https://user-images.githubusercontent.com/43128425/49719322-8058cd80-fc65-11e8-812f-88ddb848b5e4.PNG)
 
 ## Task 2
 Sa se scrie instructiunea unui backup diferentiat al bazei de date universitatea. Fișierul copiei
