@@ -25,6 +25,10 @@ de rezervă să se numească exercitiul2.bak.
 ## Task 3
 Să se scrie înstrucțiunea unui backup al jurnalului de tranzacții al bazei de date universitatea.
 Fișierul copiei de rezervă să se numească exercitiul3.bak
+
+![lab11 3 1](https://user-images.githubusercontent.com/43128425/49720002-6a4c0c80-fc67-11e8-8e1a-9a8c40495516.PNG)
+![lab11 3](https://user-images.githubusercontent.com/43128425/49720003-6a4c0c80-fc67-11e8-9937-32207fea2576.PNG)
+
 ## Task 4
 Să se execute restaurarea consecutivă a tuturor copiilor de rezervă create. Recuperarea trebuie
 sa fie realizată intr-o bază de date nouă universitatea_labll. Fișierele bazei de date noi se afla
