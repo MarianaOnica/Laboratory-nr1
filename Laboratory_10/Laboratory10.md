@@ -29,6 +29,8 @@ modificarea valorilor campului Data_Evaluare, unde valorile acestui camp sunt ne
 Declanșatorul trebuie să se lanseze, numai dacă sunt afectate datele studenților din grupa
 ,CIB 1 71 ". Se va afișa un mesaj de avertizare în cazul tentativei de a încălca constrângerea.</h3>
 
+![lab10 3](https://user-images.githubusercontent.com/43128425/49735794-f0307d80-fc90-11e8-9f24-20c233e4d55f.PNG)
+
 ## Task 4
 <h3>Sa se creeze un declanșator DDL care ar interzice modificarea coloanei ld_Disciplina in
 tabelele bazei de date universitatea cu afișarea mesajului respectiv.</h3>
