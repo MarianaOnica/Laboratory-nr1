@@ -11,9 +11,14 @@ scrie instructiunea SQL respectiva.
 ![lab11 1 1](https://user-images.githubusercontent.com/43128425/49717227-01f92d00-fc5f-11e8-8720-e745c49e29a5.PNG)
 ![lab11 1 2](https://user-images.githubusercontent.com/43128425/49717231-04f41d80-fc5f-11e8-91bc-be52289af154.PNG)
 
+Utilizand instructiunea SQL
+
+![lab11 1 3](https://user-images.githubusercontent.com/43128425/49719020-99ad4a00-fc64-11e8-9981-79b53b622656.PNG)
+
 ## Task 2
 Sa se scrie instructiunea unui backup diferentiat al bazei de date universitatea. Fișierul copiei
 de rezervă să se numească exercitiul2.bak.
+
 ## Task 3
 Să se scrie înstrucțiunea unui backup al jurnalului de tranzacții al bazei de date universitatea.
 Fișierul copiei de rezervă să se numească exercitiul3.bak
