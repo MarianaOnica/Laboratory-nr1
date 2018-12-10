@@ -41,6 +41,10 @@ tabelele bazei de date universitatea cu afișarea mesajului respectiv.</h3>
 <h3>Sa se creeze un declanșator DDL care ar interzice modificarea schemei bazei de date in afara
 orelor de lucru.</h3>
 
+![lab10 5](https://user-images.githubusercontent.com/43128425/49739685-2d017200-fc9b-11e8-9a8c-72ec92f001c9.PNG)
+
 ## Task 6
 <h3>Sa se creeze un declanșator DDL care, la modificarea proprietatilor coloanei ld_Profesor
 dintr-un tabel, ar face schimbări asemănătoare în mod automat în restul tabelelor.</h3>
+
+![lab10 6](https://user-images.githubusercontent.com/43128425/49739684-2d017200-fc9b-11e8-8d1a-927b562aba9e.PNG)
