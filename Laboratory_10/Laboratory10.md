@@ -35,6 +35,8 @@ Declanșatorul trebuie să se lanseze, numai dacă sunt afectate datele studenț
 <h3>Sa se creeze un declanșator DDL care ar interzice modificarea coloanei ld_Disciplina in
 tabelele bazei de date universitatea cu afișarea mesajului respectiv.</h3>
 
+![lab10 4](https://user-images.githubusercontent.com/43128425/49737050-71d5da80-fc94-11e8-8a91-d1fe39c1a305.PNG)
+
 ## Task 5
 <h3>Sa se creeze un declanșator DDL care ar interzice modificarea schemei bazei de date in afara
 orelor de lucru.</h3>
